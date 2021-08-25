@@ -1,1 +1,1 @@
-# shape-abc
+# shape_generator
